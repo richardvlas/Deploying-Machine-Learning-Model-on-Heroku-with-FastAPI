@@ -38,6 +38,12 @@ Now install the dependencies from the `requirements.txt` file:
 pip install -r requirements.txt 
 ```
 
+### Set Up Data Version Control (DVC)
+Create a directory for the project and initialize Git and DVC.
+As you work on the code, continually commit changes. Trained models you want to keep must be committed to DVC.
+
+Add we will later connect this to AWS S3.
+
 ## Configuration
 #TODO
 
