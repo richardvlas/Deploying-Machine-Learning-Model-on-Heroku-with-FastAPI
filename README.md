@@ -38,6 +38,13 @@ Now install the dependencies from the `requirements.txt` file:
 pip install -r requirements.txt 
 ```
 
+## Configuration
+#TODO
+
+## Use the Project
+#TODO
+
+
 
 
 
